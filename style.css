@@ -1,0 +1,17 @@
+.container {
+	width: 960px;
+	overflow: auto;
+	margin: auto;
+}
+
+.case {
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	border: 1px solid black;
+	float: left;	
+}
+
+.clear {
+	clear: both;
+}
